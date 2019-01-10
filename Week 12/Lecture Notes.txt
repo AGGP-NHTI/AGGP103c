@@ -1,0 +1,4 @@
+This week I went over how to create a menu in Unity. 
+Show them how to switch from one scene to another 
+Show them how to create a basic menu with options, quite, and play buttons 
+Go over how to export you project

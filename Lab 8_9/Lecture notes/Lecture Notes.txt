@@ -1,0 +1,3 @@
+Lecture notes for week 8 and 9 
+
+This week I go over how to create your own tile map editor in Unity. Show how this is done with the 2D game kit and show how to create your own. 
